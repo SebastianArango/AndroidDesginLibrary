@@ -1,2 +1,2 @@
-# AndroidDesginLibrary
+# AndroidDesignLibrary
 Proyecto prueba de la librería de diseño de android

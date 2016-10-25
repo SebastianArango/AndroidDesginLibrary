@@ -1,3 +1,28 @@
 <resources>
+
     <string name="app_name">ExampleLibraryDesing</string>
+    <!--Login Activity-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_toolbar">Explora</string>
+    <string name="error_email">El correo ingresado no es valido</string>
+    <string name="title_general_dialog">Señor usuario</string>
+    <string name="message_error_empty_field">Debe diligenciar todos los campos</string>
+    <string name="message_error_email">El Email ingresado no es correcto. Por favor validar</string>
+    <string name="button_ok">Ok</string>
+    <string name="seccion_1">Inicio</string>
+    <string name="seccion_2">Comidas</string>
+    <string name="seccion_3">Seccion 3</string>
+    <string name="otras_opciones">Otras opciones</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="header">Header</string>
+    <string name="openDrawer">Abrir drawer</string>
+    <string name="closeDrawer">Cerrar drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragmenttabs">Hello blank fragmentTAbs</string>
+
 </resources>
